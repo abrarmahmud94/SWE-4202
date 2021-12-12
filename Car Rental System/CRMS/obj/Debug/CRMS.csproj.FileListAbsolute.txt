@@ -1,0 +1,6 @@
+C:\Users\IT Lab\Desktop\CRMS\bin\Debug\CRMS.dll
+C:\Users\IT Lab\Desktop\CRMS\bin\Debug\CRMS.pdb
+C:\Users\IT Lab\Desktop\CRMS\obj\Debug\CRMS.csproj.AssemblyReference.cache
+C:\Users\IT Lab\Desktop\CRMS\obj\Debug\CRMS.csproj.CoreCompileInputs.cache
+C:\Users\IT Lab\Desktop\CRMS\obj\Debug\CRMS.dll
+C:\Users\IT Lab\Desktop\CRMS\obj\Debug\CRMS.pdb
