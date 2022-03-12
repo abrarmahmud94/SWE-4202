@@ -1,0 +1,22 @@
+C:\Users\IT Lab\Desktop\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\IT Lab\Desktop\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\IT Lab\Desktop\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\IT Lab\Desktop\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\IT Lab\Desktop\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT Lab\Desktop\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\IT Lab\Desktop\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\IT Lab\Desktop\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\IT Lab\Desktop\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\IT Lab\Desktop\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\IT Lab\Desktop\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\USER\Desktop\LAB TASK-5\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
