@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\LMS_Lab7-68\bin\Debug\LMS_Lab7-68.exe.config
+C:\Users\USER\Desktop\LMS_Lab7-68\bin\Debug\LMS_Lab7-68.exe
+C:\Users\USER\Desktop\LMS_Lab7-68\bin\Debug\LMS_Lab7-68.pdb
+C:\Users\USER\Desktop\LMS_Lab7-68\obj\Debug\LMS_Lab7-68.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LMS_Lab7-68\obj\Debug\LMS_Lab7-68.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LMS_Lab7-68\obj\Debug\LMS_Lab7_68.Form1.resources
+C:\Users\USER\Desktop\LMS_Lab7-68\obj\Debug\LMS_Lab7_68.Properties.Resources.resources
+C:\Users\USER\Desktop\LMS_Lab7-68\obj\Debug\LMS_Lab7-68.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LMS_Lab7-68\obj\Debug\LMS_Lab7-68.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LMS_Lab7-68\obj\Debug\LMS_Lab7-68.exe
+C:\Users\USER\Desktop\LMS_Lab7-68\obj\Debug\LMS_Lab7-68.pdb
