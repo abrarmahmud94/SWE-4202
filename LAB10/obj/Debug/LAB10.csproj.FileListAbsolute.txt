@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\LAB10\bin\Debug\LAB10.exe.config
+C:\Users\USER\Desktop\LAB10\bin\Debug\LAB10.exe
+C:\Users\USER\Desktop\LAB10\bin\Debug\LAB10.pdb
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.Form1.resources
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.exe
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.pdb
