@@ -1,0 +1,8 @@
+D:\Programming practice\Task-9-2\bin\Debug\Task-9-2.exe.config
+D:\Programming practice\Task-9-2\bin\Debug\Task-9-2.exe
+D:\Programming practice\Task-9-2\bin\Debug\Task-9-2.pdb
+D:\Programming practice\Task-9-2\obj\Debug\Task-9-2.csproj.AssemblyReference.cache
+D:\Programming practice\Task-9-2\obj\Debug\Task-9-2.csproj.SuggestedBindingRedirects.cache
+D:\Programming practice\Task-9-2\obj\Debug\Task-9-2.csproj.CoreCompileInputs.cache
+D:\Programming practice\Task-9-2\obj\Debug\Task-9-2.exe
+D:\Programming practice\Task-9-2\obj\Debug\Task-9-2.pdb
