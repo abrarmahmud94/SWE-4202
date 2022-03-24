@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\LabFinal_168\bin\Debug\LabFinal_168.exe.config
+C:\Users\USER\Desktop\LabFinal_168\bin\Debug\LabFinal_168.exe
+C:\Users\USER\Desktop\LabFinal_168\bin\Debug\LabFinal_168.pdb
+C:\Users\USER\Desktop\LabFinal_168\obj\Debug\LabFinal_168.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LabFinal_168\obj\Debug\LabFinal_168.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LabFinal_168\obj\Debug\LabFinal_168.Form1.resources
+C:\Users\USER\Desktop\LabFinal_168\obj\Debug\LabFinal_168.Properties.Resources.resources
+C:\Users\USER\Desktop\LabFinal_168\obj\Debug\LabFinal_168.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LabFinal_168\obj\Debug\LabFinal_168.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LabFinal_168\obj\Debug\LabFinal_168.exe
+C:\Users\USER\Desktop\LabFinal_168\obj\Debug\LabFinal_168.pdb
